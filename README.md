@@ -1,0 +1,2 @@
+# SlidingMenu
+SlidingMenu extends HorizontalScrollView
